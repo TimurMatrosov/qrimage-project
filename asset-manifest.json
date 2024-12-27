@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/qrimage-project/static/css/main.0e31d06d.css",
+    "main.js": "/qrimage-project/static/js/main.c2ed0dba.js",
+    "index.html": "/qrimage-project/index.html",
+    "main.0e31d06d.css.map": "/qrimage-project/static/css/main.0e31d06d.css.map",
+    "main.c2ed0dba.js.map": "/qrimage-project/static/js/main.c2ed0dba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e31d06d.css",
+    "static/js/main.c2ed0dba.js"
+  ]
+}
